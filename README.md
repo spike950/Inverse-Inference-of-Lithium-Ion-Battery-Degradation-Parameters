@@ -50,7 +50,5 @@ Running the benchmark writes outputs under `results/benchmark/`:
 
 ## Data Availability
 
-This repository includes small sample inputs and generated checkpoints only for testing the implementation pipeline.
-
-These bundled data samples and checkpoints are not intended to reproduce the manuscript results. For a full scientific reproduction study, replace the sample input file with the appropriate benchmark dataset and regenerate outputs using your target configuration.
+The PyBaMM-generated dataset used for this study can be found in the `PybaMM-dataset/` folder.
 
